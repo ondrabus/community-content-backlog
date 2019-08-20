@@ -4,27 +4,48 @@ You decided to write about something awesome and share it with the world. Cool! 
 
 ## Topic & Motivation
 
-**Theme / Topic**
+### Theme / Topic
 
-- What do you want to write about?
-- What should people take away from your article?
+Title: **Building a static site with Gatsby.js + How to use GraphQL with Kentico Cloud**
 
-**Target role**
+* What is Static site generator and its benefits, what is Gatsby and how to use it with Kentico Cloud to reach that benefits.
+* It is possible to use GraphQL with Kentico Cloud
 
-- Who will gain the greatest benefit from your article?
-- Is it a developer, solution architect, support engineer or someone completely different?
+### Target role
 
-**Transformation**
+* Developers, CTOs
 
-- When your target audience reads your article, what should they start doing differently?
-- Should they use a different approach to known problems?
-- Will they learn from your mistakes?
+### Transformation
+
+* Consider using static site for client projects
+* Understand static sites benefits
+* Static site does not mean a set of HTML files
 
 ## Outline
 
-### Teaser
-
-In the teaser of your article try to set out the problem you're about to solve. Explain why this problem is a problem and how your audience can relate to it. Be yourself and if you feel like adding a comment about your own experience, do it.
+* What is static site generator
+* What is GraphQL
+* What is Gatsby (React)
+* GraphQL vs REST API
+* Generating static site
+* Publishing static site
+* Updating content on static site
+* CI/CD of static site
+* What does the static mean (no plain HTML from 90's)
+* Kentico Cloud content structure ing Gatsby GraphQL content model
+  * Start from content structure -> Reusable components
+* Showcase on one complex model -> HR person record
+  * https://app.kenticocloud.com/09fc0115-dd4d-00c7-5bd9-5f73836aee81/content-models/types
+  * Multilingual links
+  * Type -> Itemsl links
+  * Element types resolition
+    * Standard types (text, datetime, radio, taxonomy)
+    * Linked element resolution
+    * Rich text item reolution
+      * embedded resolution in JS SDK
+      * resolve rich text to a structured React components
+* Interested in static site generator - meet us and the stand
+* Deploy showcase and add the link + QR code to the presentation
 
 ### Expectations
 
@@ -92,6 +113,7 @@ The structure looks better and better! Sleep on it and try to polish it a few mo
 The main point of all this work is to ensure a good flow of content. It shapes your ideas so that you don't jump from one to another and confuse your readers. It is a critical step as good flow will make sure that already hooked readers will continue reading till the end of the article.
 
 For more thorough information about writing perfect outlines please refer to following blog post: [How to Write a Blog Post Outline: A Simple Formula to Follow](https://blog.hubspot.com/marketing/how-to-write-blog-post-outline)
+
 
 ## Summary
 

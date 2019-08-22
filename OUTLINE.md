@@ -34,8 +34,11 @@ Title: **Building a static site with Gatsby.js + How to use GraphQL with Kentico
 * What does the static mean (no plain HTML from 90's)
 * Kentico Cloud content structure ing Gatsby GraphQL content model
   * Start from content structure -> Reusable components
-* Showcase on one complex model -> HR person record
+* Showcase on one complex model -> Company intranet with personal space
+  * Possibly use Material descign framework for react (https://demos.creative-tim.com/material-dashboard-react/#/admin/dashboard)
   * https://app.kenticocloud.com/09fc0115-dd4d-00c7-5bd9-5f73836aee81/content-models/types
+  * User name + surname -> connect in Gatsby 
+  * rich text used to create a personal BIO, landing page
   * Multilingual links
   * Type -> Itemsl links
   * Element types resolition

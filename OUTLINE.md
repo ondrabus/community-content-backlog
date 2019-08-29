@@ -62,16 +62,16 @@ Now it's time for the actual content. Write down all the things you want to writ
 
 Take a look at this example of ideas related to Apollo and GraphQL article:
 
-- explain what is GraphQL
-- explain what is Apollo
-- why is the tightly coupling of components and their backend code a problem
-- why is the transfer of knowledge to a new developer going to be a problem
-- why should they care about maintaining their code
-- how can they generate data model schema
-- how can they define queries and mutations
-- how do they put it all together
-- which tools should they use
-- which JS frameworks can they use
+* explain what is GraphQL
+* explain what is Apollo
+* why is the tightly coupling of components and their backend code a problem
+* why is the transfer of knowledge to a new developer going to be a problem
+* why should they care about maintaining their code
+* how can they generate data model schema
+* how can they define queries and mutations
+* how do they put it all together
+* which tools should they use
+* which JS frameworks can they use
 
 Once you get all these ideas written down, you can organize them into a few sections of your future article:
 
